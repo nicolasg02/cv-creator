@@ -77,6 +77,7 @@ const CvForm = ({
         <input
           type="number"
           name="graduation"
+          value={form.graduation}
           placeholder="Year of graduation"
           onChange={handleInputChange}
         />
