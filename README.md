@@ -1,4 +1,5 @@
 # CV Project Notes
+[Live on Github Pages](https://nicolasg02.github.io/cv-creator/)
 
 ## Personal Goal
 
